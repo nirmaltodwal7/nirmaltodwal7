@@ -1,4 +1,4 @@
-![logo](https://github.com/nirmaltodwal7/nirmaltodwal7/blob/main/yoyo.png)
+![logo](https://github.com/nirmaltodwal7/nirmaltodwal7/blob/main/nirmal.abc.png)
 <h1 align="center">Hi 👋, I'm Nirmal Todwal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
