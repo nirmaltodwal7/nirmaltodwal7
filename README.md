@@ -78,7 +78,7 @@
 <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
