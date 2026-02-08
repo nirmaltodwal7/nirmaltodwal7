@@ -1,4 +1,4 @@
-![logo](https://github.com/nirmaltodwal7/nirmaltodwal7/blob/main/nirmal.abc.png)
+![logo](https://github.com/nirmaltodwal7/GIF/blob/main/githubgif.gif)
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" alt="DevOps Badge" />
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmaltodwal7&label=Profile%20views&color=0e75b6&style=flat" alt="nirmaltodwal7" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/nirmal_todwal_7?utm_source=linktree_admin_share(https://linktr.ee/nirmal_todwal_7?utm_source=linktree_admin_share)
+- 👨‍💻 All of my projects are available at (https://linktr.ee/nirmal_todwal_7?utm_source=linktree_admin_share)
 
 - 📫 How to reach me **nirmaltodwal566@gmail.com**
 
@@ -54,6 +54,9 @@
   </a>
 
 </p>
+
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -99,9 +102,47 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
 </p>
 
+---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nirmaltodwal7&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=nirmaltodwal7&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nirmaltodwal7&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Management-Agile%20Delivery-blueviolet" />
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-ff69b4" />
+  <img src="https://img.shields.io/badge/Next.js-Production%20Apps-black" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" />
+</p>
+
+
+---
+
+### 🌟 About Me 🌟
+I am a passionate and motivated Software Engineer specializing in Java backend development and modern full-stack technologies. Currently pursuing my B.Tech in Information Technology at Poornima College of Engineering, Jaipur, I combine strong academic foundations with practical internship experience to build scalable, secure, and user-centric applications. I am deeply interested in clean architecture, RESTful API development, system design, and cloud-native solutions.
+
+Through my internship experiences, I have worked on real-world projects involving React.js, Node.js, Express, MongoDB, and Java-based backend systems. I have developed secure APIs, optimized database performance, and collaborated within Agile teams to deliver production-ready applications. These experiences have strengthened my problem-solving skills and helped me understand how to design and maintain efficient software systems.
+
+I have built impactful projects including an AI-powered Government Fund Management System with fraud prevention mechanisms, an online therapy platform with real-time features, and a tourism portal with discovery and booking functionality. These projects reflect my ability to integrate frontend, backend, authentication systems, and cloud services into cohesive and scalable solutions.
+
+My technical expertise includes Java, Spring Boot, Hibernate, Node.js, React.js, Next.js, MySQL, MongoDB, Firebase, and cloud platforms. I am comfortable working across the full development lifecycle — from planning and designing architectures to deployment and optimization.
+
+I am continuously learning and striving to grow in backend engineering, microservices architecture, and cloud technologies. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
+
+### Education 🎓:
+**Currently pursuing B.Tech in Information Technology (3rd Year) at Poornima College of Engineering, Jaipur.**
+
+---
+### Let's Connect 🤝:
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
+
+---
+![GitHub GIF](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA1NDkyMTQsIm5iZiI6MTc3MDU0ODkxNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA4VDExMDgzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhNTQxZGI1MDA3OGM5ODc2YzcxN2ZlNWNhMjAyMWJiZWM3YmQ3M2JhMDlhMjcxMGM0NzA5NGJhYmRiZDdlMTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HwGplT7FugP8kTaXymcvH_YTc1hAOZgpbBGSuzbMXs4)
+
+---
+
+  <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nirmaltodwal7&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nirmaltodwal7&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nirmaltodwal7&layout=compact&theme=radical" height="170" />
+</p>
+
 
 
