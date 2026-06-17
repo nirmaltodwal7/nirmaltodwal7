@@ -76,7 +76,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project%20Management-Agile%20Delivery-blueviolet" />
   <img src="https://img.shields.io/badge/MERN-Full%20Stack-ff69b4" />
   <img src="https://img.shields.io/badge/Next.js-Production%20Apps-black" />
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange" />
