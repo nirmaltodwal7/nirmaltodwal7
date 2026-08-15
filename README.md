@@ -97,7 +97,7 @@ My technical expertise includes Java, Spring Boot, Hibernate, Node.js, React.js,
 I am continuously learning and striving to grow in backend engineering, microservices architecture, and cloud technologies. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
 
 ### Education 🎓:
-**Currently pursuing B.Tech in Information Technology (3rd Year) at Poornima College of Engineering, Jaipur.**
+**Currently pursuing B.Tech in Information Technology (4th Year) at Poornima College of Engineering, Jaipur.**
 
 ---
 ### Let's Connect 🤝:
